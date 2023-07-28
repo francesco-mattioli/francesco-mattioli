@@ -1,4 +1,4 @@
-### Hi, I'm Francesco 
+### Hi, I'm Francesco 😄
 
 - 📚 Actively enrolled in a double degree Master's program, combining Computer Science Engineering with a specialization in Data Science at Polimi🇮🇹 and UPM🇪🇸 (EIT Digital)
 - 💬 Ask me anything!
