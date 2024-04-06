@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/SPARQL-%230C459C.svg?style=for-the-badge&logo=sparql&logoColor=white" alt="SPARQL" />
 ![Spark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Flink](https://img.shields.io/badge/apache_flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 [![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![PyTorch Forecasting](https://img.shields.io/badge/pytorch_forecasting-%23018E42.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch-forecasting.readthedocs.io/en/latest/)
